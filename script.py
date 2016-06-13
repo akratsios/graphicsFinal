@@ -308,4 +308,3 @@ def run(filename):
             for x in xrange(XRES):
                 for y in xrange(YRES):
                     z_buffer[x][y] = -float('inf')
-            
